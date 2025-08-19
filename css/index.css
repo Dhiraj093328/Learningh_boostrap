@@ -1,0 +1,25 @@
+.nav-item{
+    background-color: transparent;
+    border: 3px solid blue;
+    color: azure;
+    height: 30px;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 10px; /* gap between items */
+    font-size: 22px;
+    text-decoration: none;
+}
+.nav-link:hover{
+    background: #fff;
+    color: red;
+    transition: 1s;
+}
+
+.navbar {
+    display: flex;
+    justify-content: flex-end; /* Pushes all items to the extreme right */
+    align-items: center;
+    padding: 10px;
+}
