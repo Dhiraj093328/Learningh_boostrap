@@ -9,7 +9,7 @@
     font-size: 20px;
     text-decoration: none;
 }
-.nav-link:hover {
+.nav-link:hover{
     background: #fff;
     color: red;
     transition: 1s;
@@ -17,7 +17,7 @@
 
 body {
     margin: 0;
-    background-image: url(/images/law1.jpg);
+    background-color: aliceblue;
     background-size: cover;   /* Makes the image cover the full screen */
     background-position: center; /* Keeps image centered */
     background-repeat: no-repeat; /* Prevents tiling */
