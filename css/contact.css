@@ -32,6 +32,13 @@ body {
     padding: 10px;
 }
 
-span{
+.btn:hover{
+    background: #fff;
+    color: red;
 
+}
+
+.bi{
+    font-size: 100px;
+    color: red;
 }
